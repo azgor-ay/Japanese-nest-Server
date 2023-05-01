@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "John Smith",
+        "picture": "https://i.ibb.co/BB7HkyL/chef-5.jpg",
+        "experience_year": 10,
+        "num_recipes": 50,
+        "num_likes": 2357
+    },
+    {
+        "id": 2,
+        "name": "Jane Doe",
+        "picture": "https://i.ibb.co/BB7HkyL/chef-5.jpg",
+        "experience_year": 5,
+        "num_recipes": 20,
+        "num_likes": 981
+    },
+    {
+        "id": 3,
+        "name": "Mike Johnson",
+        "picture": "https://i.ibb.co/BB7HkyL/chef-5.jpg",
+        "experience_year": 8,
+        "num_recipes": 35,
+        "num_likes": 1789
+    },
+    {
+        "id": 4,
+        "name": "Hiroshi Tanaka",
+        "picture": "https://i.ibb.co/BB7HkyL/chef-5.jpg",
+        "experience_year": 20,
+        "num_recipes": 100,
+        "num_likes": 4896
+    },
+    {
+        "id": 5,
+        "name": "Maria Rodriguez",
+        "picture": "https://i.ibb.co/BB7HkyL/chef-5.jpg",
+        "experience_year": 12,
+        "num_recipes": 60,
+        "num_likes": 3012
+    },
+    {
+        "id": 6,
+        "name": "David Kim",
+        "picture": "https://i.ibb.co/BB7HkyL/chef-5.jpg",
+        "experience_year": 8,
+        "num_recipes": 40,
+        "num_likes": 1723
+    }
+]
