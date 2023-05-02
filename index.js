@@ -7,7 +7,7 @@ const feedBacks = require('./data/feedback.json')
 const recipe = require('./data/cookingRecipe.json')
 
 app.use(cors()); 
-app.get('/', (req, res)=>{
+app.get('/', (req, res)=>{  
     res.send('Japanese Nest Server')
 })
 

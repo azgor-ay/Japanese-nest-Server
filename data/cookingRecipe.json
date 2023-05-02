@@ -2,7 +2,7 @@
     {
         "id": "1",
         "name": "Tonkatsu",
-        "photo": "https://example.com/tonkatsu.jpg",
+        "photo": "https://www.thespruceeats.com/thmb/vZmyXlZwV_Ja8F8-wVIiJphfj2k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tonkatsu-recipe-japanese-breaded-and-deep-fried-pork-2031274-hero-01-31a9f4e17fc04eeba22dee6c0caf27b7.jpg",
         "ingredients": [
           "4 boneless pork loin chops",
           "1 cup panko bread crumbs",
@@ -25,7 +25,7 @@
       {
         "id": "2",
         "name": "Miso Soup",
-        "photo": "https://example.com/miso-soup.jpg",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Miso_Soup_001.jpg",
         "ingredients": [
           "4 cups dashi stock",
           "3 tbsp miso paste",
@@ -51,7 +51,7 @@
       {
         "id": "3",
         "name": "Yakitori",
-        "photo": "https://example.com/yakitori.jpg",
+        "photo": "https://d21klxpge3tttg.cloudfront.net/wp-content/uploads/2012/01/spark-grill-yakitori_05.jpg",
         "ingredients": [
           "1 pound chicken thighs",
           "1/4 cup soy sauce",
@@ -75,7 +75,7 @@
       {
         "id": "1",
         "name": "Japanese Curry",
-        "photo": "https://example.com/japanese-curry.jpg",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Beef_curry_rice_003.jpg/1200px-Beef_curry_rice_003.jpg",
         "ingredients": [
           "1 pound chicken thighs",
           "2 onions",

@@ -1,8 +1,8 @@
-[
+[  
     {
         "id": 1,
-        "name": "John Smith",
-        "picture": "https://i.ibb.co/12y9rbv/chef-1.jpg",
+        "name": "Emma Grace",
+        "picture": "https://previews.123rf.com/images/kungverylucky/kungverylucky1605/kungverylucky160500046/58878955-beautiful-asian-woman-chef-with-chopsticks-isolated-on-white-and-japanese-food-background.jpg",
         "experience_year": 10,
         "num_recipes": 50,
         "num_likes": 2357,
@@ -12,12 +12,12 @@
             "Best Italian Chef 2018",
             "Top 50 Chefs of the World 2021"
         ],
-        "description": "Chef John Smith is a world-renowned Italian chef with a passion for creating traditional Italian dishes with a modern twist. He has worked in top restaurants around the world and has won numerous awards for his innovative cuisine. His signature dish, Spaghetti Carbonara, is a must-try for anyone who loves Italian food. Chef Smith is also known for his commitment to using fresh, locally-sourced ingredients in all of his dishes."
+        "description": "Chef Emma Grace is a world-renowned Italian chef with a passion for creating traditional Italian dishes with a modern twist. He has worked in top restaurants around the world and has won numerous awards for his innovative cuisine. His signature dish, Spaghetti Carbonara, is a must-try for anyone who loves Italian food. Chef Smith is also known for his commitment to using fresh, locally-sourced ingredients in all of his dishes."
     },
     {
         "id": 2,
-        "name": "Jane Doe",
-        "picture": "https://i.ibb.co/WgKGvPS/chef-2.png",
+        "name": " Lil Rose",
+        "picture": "https://c8.alamy.com/comp/2NARDD8/enthusiastic-female-chef-with-a-happy-smile-on-her-face-on-a-isolated-on-a-white-background-mockup-copy-space-isolated-on-a-white-background-2NARDD8.jpg",
         "experience_year": 5,
         "num_recipes": 20,
         "num_likes": 981,
@@ -27,12 +27,12 @@
             "Best Female Chef 2020",
             "Top 100 Chefs of the Year 2021"
         ],
-        "description": "Chef Jane Doe is a talented French chef with a passion for creating classic French dishes with a contemporary twist. She has worked in several Michelin-starred restaurants and has won numerous awards for her culinary creations. Her signature dish, Coq au Vin, is a must-try for anyone who loves French food. Chef Doe is also known for her commitment to sustainability and using locally-sourced, organic ingredients in all of her dishes."
+        "description": "Chef Lily Rose is a talented French chef with a passion for creating classic French dishes with a contemporary twist. She has worked in several Michelin-starred restaurants and has won numerous awards for her culinary creations. Her signature dish, Coq au Vin, is a must-try for anyone who loves French food. Chef Doe is also known for her commitment to sustainability and using locally-sourced, organic ingredients in all of her dishes."
     },
     {
         "id": 3,
-        "name": "Mike Johnson",
-        "picture": "https://i.ibb.co/sFkSMVb/chef-3.jpg",
+        "name": "Sarah Jane",
+        "picture": "https://img.freepik.com/premium-photo/young-japanese-chef-woman-cooking_1187-80110.jpg?w=2000",
         "experience_year": 8,
         "num_recipes": 35,
         "num_likes": 1789,
@@ -42,12 +42,12 @@
             "Best Mediterranean Chef 2019",
             "Top 20 Chefs of the World 2021"
         ],
-        "description": "Chef Mike Johnson is a talented Mediterranean chef with a passion for creating flavorful, healthy dishes inspired by the region's rich culinary heritage. He has worked in top restaurants around the world and has won numerous awards for his innovative cuisine. His signature dish, Lamb Kofta, is a must-try for anyone who loves Mediterranean food. Chef Johnson is also known for his commitment to using fresh, locally-sourced ingredients in all of his dishes."
+        "description": "Chef Sarah Jane is a talented Mediterranean chef with a passion for creating flavorful, healthy dishes inspired by the region's rich culinary heritage. He has worked in top restaurants around the world and has won numerous awards for his innovative cuisine. His signature dish, Lamb Kofta, is a must-try for anyone who loves Mediterranean food. Chef Johnson is also known for his commitment to using fresh, locally-sourced ingredients in all of his dishes."
     },
     {
         "id": 4,
         "name": "Hiroshi Tanaka",
-        "picture": "https://i.ibb.co/02PdRvg/chef-4.jpg",
+        "picture": "https://img.freepik.com/premium-photo/serious-japanese-chief-man-white-cook-uniform-hat-holding-raw-fresh-fish-isolated-white-wall_171337-60693.jpg?w=2000",
         "experience_year": 20,
         "num_recipes": 100,
         "num_likes": 4896,
@@ -61,8 +61,8 @@
     },
     {
         "id": 5,
-        "name": "Maria Rodriguez",
-        "picture": "https://i.ibb.co/BB7HkyL/chef-5.jpg",
+        "name": "Hiroshi",
+        "picture": "https://thumbs.dreamstime.com/z/asian-sushi-chef-japanese-white-background-39580648.jpg",
         "experience_year": 12,
         "num_recipes": 60,
         "num_likes": 3012,
@@ -72,12 +72,12 @@
             "Best Mexican Chef 2019",
             "Top 20 Female Chefs in the World 2021"
         ],
-        "description": "Chef Maria Rodriguez is a talented chef specializing in Mexican cuisine. She has over 12 years of experience in the industry and has worked in top restaurants around the world. Her signature dish, Tacos al Pastor, is a flavorful and authentic Mexican delicacy that is loved by all. Chef Rodriguez is known for her innovative use of traditional Mexican ingredients and her dedication to using sustainable, locally-sourced produce in all of her dishes."
+        "description": "Chef Hiroshi is a talented chef specializing in Mexican cuisine. She has over 12 years of experience in the industry and has worked in top restaurants around the world. Her signature dish, Tacos al Pastor, is a flavorful and authentic Mexican delicacy that is loved by all. Chef Rodriguez is known for her innovative use of traditional Mexican ingredients and her dedication to using sustainable, locally-sourced produce in all of her dishes."
     },
     {
         "id": 6,
-        "name": "David Kim",
-        "picture": "https://i.ibb.co/JHJDhZQ/chef-6.jpg",
+        "name": "Ella Mae",
+        "picture": "https://img.freepik.com/free-photo/confident-young-female-cook-wearing-chef-uniform-holding-frying-pan-with-knife-isolated-white-background_141793-105050.jpg?w=2000",
         "experience_year": 8,
         "num_recipes": 40,
         "num_likes": 1723,
@@ -87,6 +87,6 @@
             "Best Korean Chef 2020",
             "Top 30 Chefs Under 30 2021"
         ],
-        "description": "Chef David Kim is a rising star in the culinary world with a talent for creating delicious and visually stunning Korean dishes. He has worked in top restaurants in Korea and the United States and has won numerous awards for his innovative cuisine. His signature dish, Bibimbap, is a Korean classic that showcases his skills in creating perfectly balanced flavors and textures. Chef Kim is also known for his dedication to using only the freshest, highest quality ingredients in all of his dishes."
+        "description": "Chef Ella Mae is a rising star in the culinary world with a talent for creating delicious and visually stunning Korean dishes. He has worked in top restaurants in Korea and the United States and has won numerous awards for his innovative cuisine. His signature dish, Bibimbap, is a Korean classic that showcases his skills in creating perfectly balanced flavors and textures. Chef Kim is also known for his dedication to using only the freshest, highest quality ingredients in all of his dishes."
     }
 ]
