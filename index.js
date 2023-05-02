@@ -3,6 +3,7 @@ const app = express()
 const cors = require('cors')
 
 const chefs = require('./data/chefs.json')
+const feedBacks = require('./data/feedback.json')
 
 app.use(cors()); 
 app.get('/', (req, res)=>{
@@ -11,6 +12,10 @@ app.get('/', (req, res)=>{
 
 app.get('/chefs', (req, res) =>{
     res.send(chefs)
+})
+
+app.get('/feedback', (req, res) =>{
+    res.send(feedBacks)
 })
 
 app.listen(5000, ()=>{
