@@ -5,7 +5,14 @@
         "picture": "https://i.ibb.co/BB7HkyL/chef-5.jpg",
         "experience_year": 10,
         "num_recipes": 50,
-        "num_likes": 2357
+        "num_likes": 2357,
+        "specialty": "Italian cuisine",
+        "signature_dish": "Spaghetti Carbonara",
+        "awards": [
+            "Best Italian Chef 2018",
+            "Top 50 Chefs of the World 2021"
+        ],
+        "description": "Chef John Smith is a world-renowned Italian chef with a passion for creating traditional Italian dishes with a modern twist. He has worked in top restaurants around the world and has won numerous awards for his innovative cuisine. His signature dish, Spaghetti Carbonara, is a must-try for anyone who loves Italian food. Chef Smith is also known for his commitment to using fresh, locally-sourced ingredients in all of his dishes."
     },
     {
         "id": 2,
@@ -13,7 +20,14 @@
         "picture": "https://i.ibb.co/BB7HkyL/chef-5.jpg",
         "experience_year": 5,
         "num_recipes": 20,
-        "num_likes": 981
+        "num_likes": 981,
+        "specialty": "French cuisine",
+        "signature_dish": "Coq au Vin",
+        "awards": [
+            "Best Female Chef 2020",
+            "Top 100 Chefs of the Year 2021"
+        ],
+        "description": "Chef Jane Doe is a talented French chef with a passion for creating classic French dishes with a contemporary twist. She has worked in several Michelin-starred restaurants and has won numerous awards for her culinary creations. Her signature dish, Coq au Vin, is a must-try for anyone who loves French food. Chef Doe is also known for her commitment to sustainability and using locally-sourced, organic ingredients in all of her dishes."
     },
     {
         "id": 3,
@@ -21,7 +35,14 @@
         "picture": "https://i.ibb.co/BB7HkyL/chef-5.jpg",
         "experience_year": 8,
         "num_recipes": 35,
-        "num_likes": 1789
+        "num_likes": 1789,
+        "specialty": "Mediterranean cuisine",
+        "signature_dish": "Lamb Kofta",
+        "awards": [
+            "Best Mediterranean Chef 2019",
+            "Top 20 Chefs of the World 2021"
+        ],
+        "description": "Chef Mike Johnson is a talented Mediterranean chef with a passion for creating flavorful, healthy dishes inspired by the region's rich culinary heritage. He has worked in top restaurants around the world and has won numerous awards for his innovative cuisine. His signature dish, Lamb Kofta, is a must-try for anyone who loves Mediterranean food. Chef Johnson is also known for his commitment to using fresh, locally-sourced ingredients in all of his dishes."
     },
     {
         "id": 4,
@@ -29,7 +50,14 @@
         "picture": "https://i.ibb.co/BB7HkyL/chef-5.jpg",
         "experience_year": 20,
         "num_recipes": 100,
-        "num_likes": 4896
+        "num_likes": 4896,
+        "specialty": "Japanese cuisine",
+        "signature_dish": "Sushi",
+        "awards": [
+            "Best Japanese Chef 2015",
+            "Top 50 Chefs in Asia 2018"
+        ],
+        "description": "Chef Hiroshi Tanaka is a master of Japanese cuisine with over 20 years of experience in the industry. He has worked in top restaurants in Japan and around the world, and has won numerous awards for his exceptional culinary skills. His signature dish, Sushi, is a testament to his expertise in this traditional Japanese delicacy. Chef Tanaka is also known for his passion for using fresh, seasonal ingredients and incorporating local flavors into his dishes."
     },
     {
         "id": 5,
@@ -37,7 +65,14 @@
         "picture": "https://i.ibb.co/BB7HkyL/chef-5.jpg",
         "experience_year": 12,
         "num_recipes": 60,
-        "num_likes": 3012
+        "num_likes": 3012,
+        "specialty": "Mexican cuisine",
+        "signature_dish": "Tacos al Pastor",
+        "awards": [
+            "Best Mexican Chef 2019",
+            "Top 20 Female Chefs in the World 2021"
+        ],
+        "description": "Chef Maria Rodriguez is a talented chef specializing in Mexican cuisine. She has over 12 years of experience in the industry and has worked in top restaurants around the world. Her signature dish, Tacos al Pastor, is a flavorful and authentic Mexican delicacy that is loved by all. Chef Rodriguez is known for her innovative use of traditional Mexican ingredients and her dedication to using sustainable, locally-sourced produce in all of her dishes."
     },
     {
         "id": 6,
@@ -45,6 +80,13 @@
         "picture": "https://i.ibb.co/BB7HkyL/chef-5.jpg",
         "experience_year": 8,
         "num_recipes": 40,
-        "num_likes": 1723
+        "num_likes": 1723,
+        "specialty": "Korean cuisine",
+        "signature_dish": "Bibimbap",
+        "awards": [
+            "Best Korean Chef 2020",
+            "Top 30 Chefs Under 30 2021"
+        ],
+        "description": "Chef David Kim is a rising star in the culinary world with a talent for creating delicious and visually stunning Korean dishes. He has worked in top restaurants in Korea and the United States and has won numerous awards for his innovative cuisine. His signature dish, Bibimbap, is a Korean classic that showcases his skills in creating perfectly balanced flavors and textures. Chef Kim is also known for his dedication to using only the freshest, highest quality ingredients in all of his dishes."
     }
 ]
