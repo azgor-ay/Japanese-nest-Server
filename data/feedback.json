@@ -1,55 +1,55 @@
 [
     {
         "customer_id": 1,
-        "photo": "customer1.jpg",
+        "photo": "https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHw%3D&w=1000&q=80",
         "name": "John Doe",
         "feedback": "I am extremely satisfied with Japanese Nest's products. The quality is exceptional and the customer service is outstanding."
     },
     {
         "customer_id": 2,
-        "photo": "customer2.jpg",
+        "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
         "name": "Jane Smith",
         "feedback": "I recently purchased a product from Japanese Nest and I couldn't be happier with my purchase. The product exceeded my expectations and the customer service was fantastic."
     },
     {
         "customer_id": 3,
-        "photo": "customer3.jpg",
+        "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
         "name": "Bob Johnson",
         "feedback": "I have been a loyal customer of Japanese Nest for years and have never been disappointed. The quality of their products is top-notch and their customer service is second to none."
     },
     {
         "customer_id": 4,
-        "photo": "customer4.jpg",
+        "photo": "https://images.unsplash.com/photo-1530785602389-07594beb8b73?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHw%3D&w=1000&q=80",
         "name": "Maria Rodriguez",
         "feedback": "I am so impressed with the quality and design of Japanese Nest products. They really go above and beyond to deliver an exceptional customer experience."
     },
     {
         "customer_id": 5,
-        "photo": "customer5.jpg",
+        "photo": "https://img.freepik.com/free-photo/isolated-image-positive-hipster-guy-has-happy-reaction-recent-news-being-good-mood-looks-surprisingly-through-glasses-wears-casual-pink-jumper-isolated-yellow-wall-true-human-emotions_273609-42126.jpg",
         "name": "Ahmed Ali",
         "feedback": "I recently purchased a Japanese Nest product for the first time and I was blown away by the craftsmanship and attention to detail. I will definitely be a repeat customer."
     },
     {
         "customer_id": 6,
-        "photo": "customer6.jpg",
+        "photo": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/35af6a41332353.57a1ce913e889.jpg",
         "name": "Elena Garcia",
         "feedback": "Japanese Nest has quickly become my go-to brand for all of my household needs. Their products are of the highest quality and their customer service is exceptional."
     },
     {
         "customer_id": 7,
-        "photo": "customer7.jpg",
+        "photo": "https://static.vecteezy.com/system/resources/thumbnails/022/189/824/small/flirty-random-pose-of-a-girl-image-generative-ai-photo.jpg",
         "name": "Michael Johnson",
         "feedback": "I have been a fan of Japanese Nest for years and they never disappoint. The products are always top-notch and the customer service is excellent."
     },
     {
         "customer_id": 8,
-        "photo": "customer8.jpg",
+        "photo": "https://static.vecteezy.com/system/resources/thumbnails/022/189/819/small/flirty-random-pose-of-a-russian-girl-image-generative-ai-photo.jpg",
         "name": "Sophie Martin",
         "feedback": "I recently purchased a Japanese Nest product and was blown away by the quality and craftsmanship. The customer service was also fantastic - I highly recommend this brand."
     },
     {
         "customer_id": 9,
-        "photo": "customer9.jpg",
+        "photo": "https://static.vecteezy.com/system/resources/thumbnails/022/189/852/small/random-stylish-flirty-pose-of-a-girl-face-image-generative-ai-photo.jpg",
         "name": "Liam Taylor",
         "feedback": "I've tried many different brands over the years, but Japanese Nest is by far my favorite. The products are always high-quality and the customer service is unbeatable."
     }
