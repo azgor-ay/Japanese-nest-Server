@@ -6,13 +6,13 @@
         "experience_year": 10,
         "num_recipes": 50,
         "num_likes": 2357,
-        "specialty": "Italian cuisine",
+        "specialty": "Japanese cuisine",
         "signature_dish": "Spaghetti Carbonara",
         "awards": [
-            "Best Italian Chef 2018",
+            "Best Japanese Chef 2018",
             "Top 50 Chefs of the World 2021"
         ],
-        "description": "Chef Emma Grace is a world-renowned Italian chef with a passion for creating traditional Italian dishes with a modern twist. He has worked in top restaurants around the world and has won numerous awards for his innovative cuisine. His signature dish, Spaghetti Carbonara, is a must-try for anyone who loves Italian food. Chef Smith is also known for his commitment to using fresh, locally-sourced ingredients in all of his dishes."
+        "description": "Chef Emma Grace is a world-renowned Japanese chef with a passion for creating traditional Japanese dishes with a modern twist. He has worked in top restaurants around the world and has won numerous awards for his innovative cuisine. His signature dish, Spaghetti Carbonara, is a must-try for anyone who loves Japanese food. Chef Smith is also known for his commitment to using fresh, locally-sourced ingredients in all of his dishes."
     },
     {
         "id": 2,
@@ -21,13 +21,13 @@
         "experience_year": 5,
         "num_recipes": 20,
         "num_likes": 981,
-        "specialty": "French cuisine",
+        "specialty": "Japanese cuisine",
         "signature_dish": "Coq au Vin",
         "awards": [
             "Best Female Chef 2020",
             "Top 100 Chefs of the Year 2021"
         ],
-        "description": "Chef Lily Rose is a talented French chef with a passion for creating classic French dishes with a contemporary twist. She has worked in several Michelin-starred restaurants and has won numerous awards for her culinary creations. Her signature dish, Coq au Vin, is a must-try for anyone who loves French food. Chef Doe is also known for her commitment to sustainability and using locally-sourced, organic ingredients in all of her dishes."
+        "description": "Chef Lily Rose is a talented Japanese chef with a passion for creating classic Japanese dishes with a contemporary twist. She has worked in several Michelin-starred restaurants and has won numerous awards for her culinary creations. Her signature dish, Coq au Vin, is a must-try for anyone who loves Japanese food. Chef Doe is also known for her commitment to sustainability and using locally-sourced, organic ingredients in all of her dishes."
     },
     {
         "id": 3,
@@ -36,13 +36,13 @@
         "experience_year": 8,
         "num_recipes": 35,
         "num_likes": 1789,
-        "specialty": "Mediterranean cuisine",
+        "specialty": "Japanese cuisine",
         "signature_dish": "Lamb Kofta",
         "awards": [
-            "Best Mediterranean Chef 2019",
+            "Best Japanese Chef 2019",
             "Top 20 Chefs of the World 2021"
         ],
-        "description": "Chef Sarah Jane is a talented Mediterranean chef with a passion for creating flavorful, healthy dishes inspired by the region's rich culinary heritage. He has worked in top restaurants around the world and has won numerous awards for his innovative cuisine. His signature dish, Lamb Kofta, is a must-try for anyone who loves Mediterranean food. Chef Johnson is also known for his commitment to using fresh, locally-sourced ingredients in all of his dishes."
+        "description": "Chef Sarah Jane is a talented Japanese chef with a passion for creating flavorful, healthy dishes inspired by the region's rich culinary heritage. He has worked in top restaurants around the world and has won numerous awards for his innovative cuisine. His signature dish, Lamb Kofta, is a must-try for anyone who loves Japanese food. Chef Johnson is also known for his commitment to using fresh, locally-sourced ingredients in all of his dishes."
     },
     {
         "id": 4,
@@ -61,18 +61,18 @@
     },
     {
         "id": 5,
-        "name": "Hiroshi",
-        "picture": "https://thumbs.dreamstime.com/z/asian-sushi-chef-japanese-white-background-39580648.jpg",
+        "name": "Ana De Arms",
+        "picture": "https://img.freepik.com/free-photo/pleased-young-female-cook-chef-uniform-standing-pointing-white-wall-isolated-wall_141793-94204.jpg?w=2000",
         "experience_year": 12,
         "num_recipes": 60,
         "num_likes": 3012,
-        "specialty": "Mexican cuisine",
+        "specialty": "Japanese cuisine",
         "signature_dish": "Tacos al Pastor",
         "awards": [
-            "Best Mexican Chef 2019",
+            "Best Japanese Chef 2019",
             "Top 20 Female Chefs in the World 2021"
         ],
-        "description": "Chef Hiroshi is a talented chef specializing in Mexican cuisine. She has over 12 years of experience in the industry and has worked in top restaurants around the world. Her signature dish, Tacos al Pastor, is a flavorful and authentic Mexican delicacy that is loved by all. Chef Rodriguez is known for her innovative use of traditional Mexican ingredients and her dedication to using sustainable, locally-sourced produce in all of her dishes."
+        "description": "Chef Ana De Arms is a talented chef specializing in Japanese cuisine. She has over 12 years of experience in the industry and has worked in top restaurants around the world. Her signature dish, Tacos al Pastor, is a flavorful and authentic Japanese delicacy that is loved by all. Chef Rodriguez is known for her innovative use of traditional Japanese ingredients and her dedication to using sustainable, locally-sourced produce in all of her dishes."
     },
     {
         "id": 6,
@@ -81,12 +81,12 @@
         "experience_year": 8,
         "num_recipes": 40,
         "num_likes": 1723,
-        "specialty": "Korean cuisine",
+        "specialty": "Japanese cuisine",
         "signature_dish": "Bibimbap",
         "awards": [
-            "Best Korean Chef 2020",
+            "Best Japanese Chef 2020",
             "Top 30 Chefs Under 30 2021"
         ],
-        "description": "Chef Ella Mae is a rising star in the culinary world with a talent for creating delicious and visually stunning Korean dishes. He has worked in top restaurants in Korea and the United States and has won numerous awards for his innovative cuisine. His signature dish, Bibimbap, is a Korean classic that showcases his skills in creating perfectly balanced flavors and textures. Chef Kim is also known for his dedication to using only the freshest, highest quality ingredients in all of his dishes."
+        "description": "Chef Ella Mae is a rising star in the culinary world with a talent for creating delicious and visually stunning Japanese dishes. He has worked in top restaurants in Korea and the United States and has won numerous awards for his innovative cuisine. His signature dish, Bibimbap, is a Japanese classic that showcases his skills in creating perfectly balanced flavors and textures. Chef Kim is also known for his dedication to using only the freshest, highest quality ingredients in all of his dishes."
     }
 ]
